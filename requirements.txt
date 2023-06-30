@@ -1,0 +1,8 @@
+ipykernel
+autopep8
+
+numpy
+matplotlib
+
+libnum
+pycryptodome
