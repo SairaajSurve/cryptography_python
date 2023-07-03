@@ -7,3 +7,5 @@ matplotlib
 libnum
 pycryptodome
 Padding
+wheel
+tinyec
